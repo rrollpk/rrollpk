@@ -22,6 +22,13 @@ Currently focused on:
 
 ---
 
+## Achievements
+
+* IMC Prosperity: **Top 1 Spain, Top 2% Global**
+* NASA Space Apps Challenge (data-focused track)
+
+---
+
 ## Featured Projects
 
 ### Modular Personal Data
@@ -41,37 +48,5 @@ Currently focused on:
 
 ---
 
-## Technical Stack
-
-**Languages**
-
-* Python, SQL, JavaScript, R
-
-**Data & AI**
-
-* pandas, numpy, statsmodels
-* PostgreSQL
-* Embeddings / RAG systems
-
-**Backend**
-
-* FastAPI
-* REST APIs
-* Modular architecture design
-
-**Tools**
-
-* Power BI
-* Git / GitHub
-* Railway
-
----
-
-## Achievements
-
-* IMC Prosperity: **Top 1 Spain, Top 2% Global**
-* NASA Space Apps Challenge (participant, data-focused track)
-
----
 
 
