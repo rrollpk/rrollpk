@@ -18,6 +18,7 @@ My work sits at the intersection of:
 
 Currently focused on:
 
+* Modular Personal Data: Additional Modules
 * IMC Prosperity 4
 
 ---
