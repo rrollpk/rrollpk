@@ -7,8 +7,6 @@ Data systems, trading algorithms, and applied AI tools.
 
 ## About Me
 
-I design and build **modular data architectures** that integrate multiple domains into a single coherent system.
-
 My work sits at the intersection of:
 
 * Data Engineering
@@ -21,7 +19,6 @@ Currently focused on:
 * Modular Personal Data: Additional Modules
 * IMC Prosperity 4
 
-## 📊 GitHub Activity
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=roldan-carlevarino&theme=github-dark)
 ---
