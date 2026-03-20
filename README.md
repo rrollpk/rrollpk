@@ -23,7 +23,7 @@ Currently focused on:
 
 ## 📊 GitHub Activity
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=roldan-carlevarino)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=roldan-carlevarino&theme=github)
 ---
 
 ## Achievements
